@@ -1,0 +1,16 @@
+.detail-bar {
+    display: flex;
+    align-items: center;
+    background-color: rgb(146, 146, 146);
+    height: 40px;
+}
+
+.details {
+    margin: 0 10px;
+    display: flex;
+    align-items: center;
+}
+
+.filter {
+    margin: 0px 15px;
+}
