@@ -2,7 +2,6 @@
     display: flex;
     overflow-x: scroll;
     overflow-y: hidden;
-    margin: 0px 10px;
     scroll-behavior: smooth
 }
 
