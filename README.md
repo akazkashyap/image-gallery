@@ -1,5 +1,5 @@
 # Image Gallery
-![Screenshot at 2023-03-23 00-57-01](https://user-images.githubusercontent.com/52403079/227111277-8257cfc8-4dfa-4e72-872e-ba7553094da8.png)
+![Screenshot at 2023-03-23 11-00-05](https://user-images.githubusercontent.com/52403079/227112030-99827e1f-9321-43d0-a73d-18f318723585.png)
 
 
 
